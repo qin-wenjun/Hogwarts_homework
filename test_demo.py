@@ -11,3 +11,8 @@ class Testdemo:
             print(env)
         elif 'dev' in env:
             print('开发')
+
+
+
+
+print('test')
